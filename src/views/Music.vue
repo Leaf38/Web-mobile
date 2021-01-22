@@ -3,7 +3,6 @@
     <Tabs>
       <Tab name="Classique" selected="true">
         <ul>
-          <li>Classique 1</li>
           <li>Classique 2</li>
           <li>Classique 3</li>
           <li>Classique 4</li>

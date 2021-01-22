@@ -1,0 +1,138 @@
+[
+   {
+      "catégorie":"Classique",
+      "music": [
+         {  
+               "title":"Ombra Mai fu",
+               "auteur":"Malena Ernman",
+               "length":"2:56",
+               "image":"https://i.ytimg.com/vi/ggR46FHncoc/hqdefault.jpg",
+               "description":"Vero minutias ortu est latent theatralium pugnaciter omnium in fatiscunt in aliqui paupertinae imitatus imae naribus imae aut sua imae sua lucis Campanam vel fragosis concrepantes vel reducto certant aut.",
+               "biographie-auteur":"Undique habentes persuasione habentes saxa pinnis et moenia undique si et se insistebant saxa sterneretur."
+            },
+            {  
+               "title":"Theme From Jurassic Park",
+               "auteur":"John Williams",
+               "length":"3:27",
+               "image":"https://images-na.ssl-images-amazon.com/images/I/71sXDxo9k7L._SL1106_.jpg",
+               "description":"Vero minutias ortu est latent theatralium pugnaciter omnium in fatiscunt in aliqui paupertinae imitatus imae naribus imae aut sua imae sua lucis Campanam vel fragosis concrepantes vel reducto certant aut.",
+               "biographie-auteur":"Undique habentes persuasione habentes saxa pinnis et moenia undique si et se insistebant saxa sterneretur."
+            },
+            {  
+               "title":"Fracture",
+               "auteur":"Stephan Moccio",
+               "length":"3:27",
+               "image":"https://i.ytimg.com/vi/hYH80WGPet8/maxresdefault.jpg",
+               "description":"Vero minutias ortu est latent theatralium pugnaciter omnium in fatiscunt in aliqui paupertinae imitatus imae naribus imae aut sua imae sua lucis Campanam vel fragosis concrepantes vel reducto certant aut.",
+               "biographie-auteur":"Undique habentes persuasione habentes saxa pinnis et moenia undique si et se insistebant saxa sterneretur."
+            },
+            {  
+               "title":"Sunset Bird",
+               "auteur":"Yiruma",
+               "length":"3:11",
+               "image":"https://images.genius.com/4c91276509de6f412c76bbd33e803943.1000x1000x1.jpg",
+               "description":"Vero minutias ortu est latent theatralium pugnaciter omnium in fatiscunt in aliqui paupertinae imitatus imae naribus imae aut sua imae sua lucis Campanam vel fragosis concrepantes vel reducto certant aut.",
+               "biographie-auteur":"Undique habentes persuasione habentes saxa pinnis et moenia undique si et se insistebant saxa sterneretur."
+            },
+            {  
+               "title":"Winter",
+               "auteur":"Ola Gjeilo",
+               "length":"3:08",
+               "image":"https://m.media-amazon.com/images/I/814dxIxB31L._SS500_.jpg",
+               "description":"Vero minutias ortu est latent theatralium pugnaciter omnium in fatiscunt in aliqui paupertinae imitatus imae naribus imae aut sua imae sua lucis Campanam vel fragosis concrepantes vel reducto certant aut.",
+               "biographie-auteur":"Undique habentes persuasione habentes saxa pinnis et moenia undique si et se insistebant saxa sterneretur."
+            }
+      ]
+   },
+   {
+      "catégorie":"Jazz",
+      "music": [
+         {  
+               "title":"Blue World",
+               "auteur":"John Coltrane",
+               "length":"6:08",
+               "image":"https://images-na.ssl-images-amazon.com/images/I/81SlksYpNiL._SL1400_.jpg",
+               "description":"Vero minutias ortu est latent theatralium pugnaciter omnium in fatiscunt in aliqui paupertinae imitatus imae naribus imae aut sua imae sua lucis Campanam vel fragosis concrepantes vel reducto certant aut.",
+               "biographie-auteur":"Undique habentes persuasione habentes saxa pinnis et moenia undique si et se insistebant saxa sterneretur."
+            },
+            {  
+               "title":"Milestones",
+               "auteur":"Miles Davis",
+               "length":"5:42",
+               "image":"https://p7.storage.canalblog.com/74/99/636073/101127687_o.jpg",
+               "description":"Vero minutias ortu est latent theatralium pugnaciter omnium in fatiscunt in aliqui paupertinae imitatus imae naribus imae aut sua imae sua lucis Campanam vel fragosis concrepantes vel reducto certant aut.",
+               "biographie-auteur":"Undique habentes persuasione habentes saxa pinnis et moenia undique si et se insistebant saxa sterneretur."
+            },
+            {  
+               "title":"All Alone",
+               "auteur":"Mal Waldron",
+               "length":"5:10",
+               "image":"https://direct.rhapsody.com/imageserver/images/alb.297834280/500x500.jpg",
+               "description":"Vero minutias ortu est latent theatralium pugnaciter omnium in fatiscunt in aliqui paupertinae imitatus imae naribus imae aut sua imae sua lucis Campanam vel fragosis concrepantes vel reducto certant aut.",
+               "biographie-auteur":"Undique habentes persuasione habentes saxa pinnis et moenia undique si et se insistebant saxa sterneretur."
+            },
+            {  
+               "title":"All the Things You Are",
+               "auteur":"Charlie Parker",
+               "length":"2:50",
+               "image":"https://i.scdn.co/image/ab67616d0000b273382e41b5bdca717de53aa89d",
+               "description":"Vero minutias ortu est latent theatralium pugnaciter omnium in fatiscunt in aliqui paupertinae imitatus imae naribus imae aut sua imae sua lucis Campanam vel fragosis concrepantes vel reducto certant aut.",
+               "biographie-auteur":"Undique habentes persuasione habentes saxa pinnis et moenia undique si et se insistebant saxa sterneretur."
+            },
+            {  
+               "title":"The Awakening",
+               "auteur":"Amad Jama Trio",
+               "length":"6:18",
+               "image":"https://m.media-amazon.com/images/I/61mD3IYH55L._SS500_.jpg",
+               "description":"Vero minutias ortu est latent theatralium pugnaciter omnium in fatiscunt in aliqui paupertinae imitatus imae naribus imae aut sua imae sua lucis Campanam vel fragosis concrepantes vel reducto certant aut.",
+               "biographie-auteur":"Undique habentes persuasione habentes saxa pinnis et moenia undique si et se insistebant saxa sterneretur."
+            }
+      ]
+   },
+   {
+      "catégorie":"Variété",
+      "music": [
+         {  
+               "title":"Tombé",
+               "auteur":"M.Pokora",
+               "length":"3:53",
+               "image":"https://just-music.fr/wp-content/uploads/2019/06/M-Pokora-JustMusic.fr_.jpeg",
+               "description":"Vero minutias ortu est latent theatralium pugnaciter omnium in fatiscunt in aliqui paupertinae imitatus imae naribus imae aut sua imae sua lucis Campanam vel fragosis concrepantes vel reducto certant aut.",
+               "biographie-auteur":"Undique habentes persuasione habentes saxa pinnis et moenia undique si et se insistebant saxa sterneretur."
+            },
+            {  
+               "title":"la grenade",
+               "auteur":"Clara Luciani",
+               "length":"3:14",
+               "image":"https://www.deuxiemepage.fr/wp-content/uploads/2018/05/Clara-Luciani-couv.png",
+               "description":"Vero minutias ortu est latent theatralium pugnaciter omnium in fatiscunt in aliqui paupertinae imitatus imae naribus imae aut sua imae sua lucis Campanam vel fragosis concrepantes vel reducto certant aut.",
+               "biographie-auteur":"Undique habentes persuasione habentes saxa pinnis et moenia undique si et se insistebant saxa sterneretur."
+            },
+            {  
+               "title":"Côte Ouest",
+               "auteur":"47ter",
+               "length":"3:53",
+               "image":"https://i.ytimg.com/vi/nPwGvjd2zOU/maxresdefault.jpg",
+               "description":"Vero minutias ortu est latent theatralium pugnaciter omnium in fatiscunt in aliqui paupertinae imitatus imae naribus imae aut sua imae sua lucis Campanam vel fragosis concrepantes vel reducto certant aut.",
+               "biographie-auteur":"Undique habentes persuasione habentes saxa pinnis et moenia undique si et se insistebant saxa sterneretur."
+            },
+            {  
+               "title":"Pour oublier",
+               "auteur":"Kendji Girac",
+               "length":"3:36",
+               "image":"https://i.ytimg.com/vi/iToH6GuN2S4/maxresdefault.jpg",
+               "description":"Vero minutias ortu est latent theatralium pugnaciter omnium in fatiscunt in aliqui paupertinae imitatus imae naribus imae aut sua imae sua lucis Campanam vel fragosis concrepantes vel reducto certant aut.",
+               "biographie-auteur":"Undique habentes persuasione habentes saxa pinnis et moenia undique si et se insistebant saxa sterneretur."
+            },
+            {  
+               "title":"On était beau",
+               "auteur":"Louane",
+               "length":"3:25",
+               "image":"https://images-na.ssl-images-amazon.com/images/I/91w31Xm3e2L._SL1500_.jpg",
+               "description":"Vero minutias ortu est latent theatralium pugnaciter omnium in fatiscunt in aliqui paupertinae imitatus imae naribus imae aut sua imae sua lucis Campanam vel fragosis concrepantes vel reducto certant aut.",
+               "biographie-auteur":"Undique habentes persuasione habentes saxa pinnis et moenia undique si et se insistebant saxa sterneretur."
+            }
+      ]
+   }
+]
+   
