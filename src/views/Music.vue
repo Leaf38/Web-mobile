@@ -1,30 +1,9 @@
 <template>
   <div id="app">
     <Tabs>
-      <Tab name="Classique" selected="true">
-        <ul>
-          <li>Classique 2</li>
-          <li>Classique 3</li>
-          <li>Classique 4</li>
-          <li>Classique 5</li>
-        </ul>
-      </Tab>
-      <Tab name="Jazz">
-        <ul>
-          <li>Jazz 1</li>
-          <li>Jazz 2</li>
-          <li>Jazz 3</li>
-          <li>Jazz 4</li>
-          <li>Jazz 5</li>
-        </ul>
-      </Tab>
-      <Tab name="Variété">
-        <ul>
-          <li>Variété 1</li>
-          <li>Variété 2</li>
-          <li>Variété 3</li>
-          <li>Variété 4</li>
-          <li>Variété 5</li>
+      <Tab  v-bind:key="item.id" v-for="item in music" :name="item.catégorie" :selected="item.catégorie == 'Classique'">
+        <ul v-bind:key="data.title" v-for="data in item.music" >
+          <li>{{data.title}} - {{data.auteur}}</li>
         </ul>
       </Tab>
     </Tabs>
@@ -34,14 +13,21 @@
 <script>
   import Tab from '@/components/Tab'
   import Tabs from '@/components/Tabs'
+  import json from '@/data/musics.json'
 
   export default {
     name: 'App',
+    music: json,
     components: {
       Tab,
-      Tabs
-    }
+      Tabs,
+    },
+     data() {
+      return {
+      music: json,   
+       };
   }
+}
 </script>
 
 <style lang="scss">

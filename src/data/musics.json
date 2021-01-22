@@ -1,5 +1,6 @@
 [
    {
+      "id": 1,
       "catégorie":"Classique",
       "music": [
          {  
@@ -45,6 +46,7 @@
       ]
    },
    {
+      "id": 2,
       "catégorie":"Jazz",
       "music": [
          {  
@@ -90,6 +92,7 @@
       ]
    },
    {
+      "id": 3,
       "catégorie":"Variété",
       "music": [
          {  
