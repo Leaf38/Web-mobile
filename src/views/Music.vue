@@ -3,7 +3,13 @@
     <Tabs>
       <Tab  v-bind:key="item.id" v-for="item in music" :name="item.catégorie" :selected="item.catégorie == 'Classique'">
         <ul v-bind:key="data.title" v-for="data in item.music" >
-          <li>{{data.title}} - {{data.auteur}}</li>
+          <img :src=data.image
+          height="240px"
+          width="300px">
+          <li>{{data.title}}</li>
+          <li>{{data.auteur}}</li>
+          <li>{{data.length}}</li>
+          <router-link to="/music/description">Détails</router-link>
         </ul>
       </Tab>
     </Tabs>
